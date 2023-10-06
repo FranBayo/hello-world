@@ -1,6 +1,9 @@
 # hello-world
 nuestro primer repositorio editado
 
+# Aprendiendo Git
+*clone https://...* clona el repositorio
+
 # Comandos interesantes
 *cd..* vuelves al directorio anterior
 *cd.* directorio actual
